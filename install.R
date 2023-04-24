@@ -1,1 +1,6 @@
+install.packages("tm")  
+install.packages("SnowballC")
+install.packages("wordcloud")
+install.packages("RColorBrewer")
+install.packages("syuzhet")
 install.packages("ggplot2")
